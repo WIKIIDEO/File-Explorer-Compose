@@ -88,3 +88,4 @@ This project is licensed under the **[GNU General Public License v3.0](https://w
 For any questions or support, you can:
 
 *   [Open an issue](https://github.com/Raival-e/File-Explorer-Compose/issues) on GitHub.
+
